@@ -1,0 +1,49 @@
+Cancer site;female;male
+Oral Cavity and Pharynx (C00-C14);61;82
+Oesophagus (C15);4;3
+Stomach (C16);18;18
+Small intestine (C17);8;9
+Colon and Rectum (C18-C20);219;138
+Anus and anal canal (C21);3;7
+Liver (C22);59;64
+Gallbladder and Biliary Tract (C23-C24);1;3
+Pancreas (C25);21;9
+other and ill-defined digestive organs (C26);0;0
+Nasal cavity and middle ear (C30);8;8
+Accessory sinuses (C31);7;9
+Larynx (C32);0;0
+Lung (C33-C34);33;61
+Thymus (C37);0;0
+Heart, mediastinum and pleura (C38);16;24
+Other& ill-defined sites in respiratory system& intrathoracic organs (C39);0;0
+Bone and articular cartilage (C40-C41);217;329
+Malignant melanoma of skin (C43);605;358
+Mesothelial and soft tissue (C45-C49);321;361
+Breast (C50);127;1
+Vulva (C51);29;x
+Vagina (C52);3;x
+Cervix uteri (C53);82;x
+Uterus (C54-C55);13;x
+Ovary (C56);181;x
+Other& unspecified female genital organs (C57);7;x
+Placenta (C58);0;x
+Penis (C60);x;6
+Prostate (C61);x;5
+Testis (C62);x;1338
+Other and unspecified male genital organs (C63);x;11
+Kidney (C64);183;161
+Renal pelvis (C65);0;0
+Ureter (C66);0;0
+Bladder (C67);10;14
+Other and unspecified urinary organs  (C68);0;2
+Eye (C69);88;86
+Central Nervous System (C70-C72);598;763
+Thyroid Gland (C73);588;194
+Adrenal gland (C74);67;132
+Other endocrine glands& related structures (C75);27;30
+Malignant neoplasms of ill-defined, secondary& unspecified sites (C76-C80);40;51
+Hodgkin's Lymphoma (C81);685;741
+Non-Hodgkin Lymphomas (C82-C88);253;576
+Multiple myeloma (C90);2;6
+Leukemias (C91-C95);940;1273
+Other& unspecified malignant neoplasms of lymphoid, haematopoietic& related tissue (C96);31;56
